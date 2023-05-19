@@ -71,4 +71,6 @@ Remember to be cautious while selecting packages and consider their impact on yo
 
 Lastly, always read and refer to the package documentation and examples provided by the package authors. They can provide valuable insights on how to effectively utilize the package's features and integrate it into your Flutter project.
 
-##
+
+### Happy learning!					
+										@AKHILTH0MAS
