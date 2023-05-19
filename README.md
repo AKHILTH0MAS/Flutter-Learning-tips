@@ -1,7 +1,8 @@
 
 # Flutter learning tips👀
+### Have fun 😊 
 ## To learn Flutter effectively, consider the following points🌝:
-### Have fun guysss 🌚
+
 
 1.  Flutter Documentation: The official Flutter documentation is an essential resource for learning the framework. It provides comprehensive and up-to-date information about Flutter's features, widgets, and APIs. Study the documentation to gain a solid understanding of Flutter's fundamentals.
 3.  Official Flutter YouTube Channel and Playlists: The official Flutter YouTube channel offers a wealth of video tutorials and guides. Explore the channel's playlists, which cover various topics and provide practical examples. Video tutorials can be a valuable complement to written documentation.
